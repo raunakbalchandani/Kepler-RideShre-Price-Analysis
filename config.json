@@ -1,0 +1,11 @@
+{
+    "openweathermap_api_key": "YOUR_API_KEY",
+    "google_maps_api_key": "YOUR_API_KEY",
+    "db_config": {
+        "host": "localhost",
+        "port": 5432,
+        "user": "postgres",
+        "password": "yourpassword",
+        "database": "rideshare"
+    }
+}
