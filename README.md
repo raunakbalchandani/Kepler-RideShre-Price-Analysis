@@ -30,3 +30,8 @@ bash
 Copy
 Edit
 pip install -r requirements.txt
+
+##Key Scripts
+preprocessing.py: Cleans and preprocesses raw data.
+modeling.py: Trains machine learning models to predict fares.
+visualization.py: Integrates predictions into interactive Kepler.gl visualizations.
